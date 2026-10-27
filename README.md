@@ -8,8 +8,8 @@
 
   <br />
 <!-- Links / Contact Badges -->
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-extremlysad-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/timurtom">
+    <img src="https://img.shields.io/badge/Discord-timurtom-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/timurtom/nubi-app">
     <img src="https://img.shields.io/badge/Current_Project-nubi--app-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" alt="Current Project" />
